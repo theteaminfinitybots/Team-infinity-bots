@@ -1,44 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>GitHub Profile</title>
 
-<style>
-body{
-    background:#0d1117;
-    color:#c9d1d9;
-    font-family:Segoe UI, sans-serif;
-    text-align:center;
-}
-
-.smallcaps{
-    font-variant: small-caps;
-    letter-spacing:2px;
-}
-
-.section{
-    margin:60px auto;
-    width:80%;
-}
-
-.badge img{
-    margin:8px;
-}
-
-h1,h2,h3{
-    color:#58a6ff;
-}
-
-.card{
-    background:#161b22;
-    padding:30px;
-    border-radius:12px;
-    margin:20px auto;
-}
-</style>
-
-</head>
 <body>
 
 <div class="section">
