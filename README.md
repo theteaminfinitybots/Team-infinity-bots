@@ -130,7 +130,7 @@
 
 <p align="center">
 
-<a href="https://github.com/theteaminfinitybots">
+<a href="https://github.com/dark_musictm">
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 
